@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x359A21BAE8656793eCe44d309FC15300ac25F973",
+  "SCAN_LINK": "https://etherscan.io/address/0x359A21BAE8656793eCe44d309FC15300ac25F973",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "PetGas Genesis",
+  "SYMBOL": "PGG",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 125000000000000000,
+  "DISPLAY_COST": 0.125,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
